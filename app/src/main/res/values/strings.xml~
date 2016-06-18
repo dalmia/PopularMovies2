@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Popular Movies</string>
     <string name="action_settings">Settings</string>
-    <string name="api_key">ffe6e61f171a46ab95f2b3105b553f5c</string>
+    <string name="api_key">YOUR_API_KEY_HERE</string>
     <string name="movies_base_url">http://api.themoviedb.org/3/movie</string>
     <string name="image_base_url">http://image.tmdb.org/t/p/w185/</string>
     <string name="title_activity_movie_detail">Details</string>
@@ -31,7 +31,4 @@
     <string name="review_not_available">No Reviews Available</string>
     <string name="no_internet_connection">No Internet Connection</string>
     <string name="choose_a_movie">Choose a movie from the list!!</string>
-
-    <string name="sync_account_type">darkpassenger.popularmovies.com</string>
-    <string name="content_authority">com.passenger.popularmovies</string>
 </resources>

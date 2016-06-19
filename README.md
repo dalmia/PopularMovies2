@@ -4,6 +4,12 @@ This a project developed as a part of Udacity's Android Developer Nanodegree pro
 
 *Popular Movies* was evaluated by the Udacity code reviewer as "Meets Specifications".
 
+## Available on Google Play
+
+<a href="https://play.google.com/store/apps/details?id=com.passenger.popularmovies">
+<img alt="Get it on Google Play" src="http://steverichey.github.io/google-play-badge-svg/img/en_get.svg" />
+</a>
+
 ## Features
 
 * View the list of the 'Most Popular' movies or the 'Highest Rated' ones, alongwith revelant details of each film.

@@ -13,7 +13,6 @@ This a project developed as a part of Udacity's Android Developer Nanodegree pro
 ## Getting Started
 
 The app fetches movie data using [The Movie Database](https://www.themoviedb.org/documentation/api) API. You need to have your own API Key for running the app. When you get it, replace YOUR_API_KEY with the key you received in the following file:
-
     ```
     app/src/main/res/values/strings.xml
     ```
